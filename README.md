@@ -5,7 +5,7 @@ This repository tracks documentation and miscellaneous materials for the ACM GPA
 ## Address Book 
 This is the address book of the GPAC participants.
 
-| Name                | Affiliation                                              | Social/Homepage                                          | 
-| ------------------- |:---------------------------------------------------------|:-------------------------------------------------------- |
-| Stefano Pacifico    | [Elemental Cognition](https://www.elementalcognition.com)| [LinkedIn](https://www.linkedin.com/in/stefanopacifico/) |
-
+| Name                | Affiliation                                              | Social/Homepage                                                                        | 
+| ------------------- |:---------------------------------------------------------|:---------------------------------------------------------------------------------------|
+| Stefano Pacifico    | [Elemental Cognition](https://www.elementalcognition.com)| [LinkedIn](https://www.linkedin.com/in/stefanopacifico/)                               |
+| Andrew Denner       | [DuPont Pioneer](http://www.pioneer.com/)                |  [Homepage](http://denner.co) [LinkedIn](https://www.linkedin.com/in/andrewdenner/)    |
