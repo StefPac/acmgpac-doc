@@ -14,4 +14,4 @@ This is the address book of the GPAC participants.
 | Stefano Pacifico        | [Elemental Cognition](https://www.elementalcognition.com)| [LinkedIn](https://www.linkedin.com/in/stefanopacifico/), [Twitter](https://twitter.com/StefPac)                                          |
 | Nicholas Tietz-Sokolsky | [Caturra, LLC](http://caturra.io)                        | [LinkedIn](https://www.linkedin.com/in/nicholastietz/), [Twitter](https://twitter.com/NicholasTietz), [Homepage](https://www.ntietz.com/) |
 | Lesley-Anne Wilson      |[Digicel Group](https://www.digicelgroup.com/en.html)     | [LinkedIn](https://www.linkedin.com/in/lesleyannepwilson)                                                                                 |
-
+| Xiaopeng Xu      |[GeneDock](https://www.genedock.com/)     | [Homepage](http://charlesxu90.github.io/), [LinkedIn](https://www.linkedin.com/in/xiaopeng-charles-xu-0581b067/n)                                                |                                                                              |
