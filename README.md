@@ -14,6 +14,8 @@ This is the address book of the GPAC participants.
 | Victoriya Fedotova      | [Intel](https://www.intel.com)                           | [LinkedIn](https://www.linkedin.com/in/victoriya-fedotova-772aa6110/)                                                                     |
 | Ruslan Fomkin           | [Starcounter](https://www.starcounter.com)               | [LinkedIn](https://www.linkedin.com/in/fomkin)                                                                     |
 | Tony Howard             | [Gazprom Energy](http://www.gazprom-mt.com/)             | [LinkedIn](https://www.linkedin.com/in/tony-howard-05091424/), [Twitter](https://twitter.com/thetony_howard)                              |
+| Jeremy Karnowski        | [Insight](http://www.insightdata.ai/)                    | [LinkedIn](https://www.linkedin.com/in/jeremykarnowski/), [Twitter](https://twitter.com/mwakanosya)
+|
 | Hyeonggyu Kim           | [KAIST](https://www.kaist.edu)                           | [LinkedIn](https://www.linkedin.com/in/hyeonggyu/)                                                                                        |
 | Gustav Mörtberg         | [Spotify](www.spotify.com)                               | [LinkedIn](https://www.linkedin.com/in/gustavmortberg)                                                                                    |
 | Stefano Pacifico        | [Elemental Cognition](https://www.elementalcognition.com)| [LinkedIn](https://www.linkedin.com/in/stefanopacifico/), [Twitter](https://twitter.com/StefPac)                                          |
