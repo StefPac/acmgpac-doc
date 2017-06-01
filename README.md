@@ -8,6 +8,7 @@ This is the address book of the GPAC participants.
 | Name                    | Affiliation                                              | Social/Homepage                                                                                                                           |
 | ------------------------|:---------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|
 | Cecil Beeland           | [Red Hat](https://www.redhat.com)                        | [LinkedIn](https://www.linkedin.com/in/beelandc/), [Twitter](https://twitter.com/beelandc) |
+| Thijmen de Gooijer      | [ASSA ABLOY Sweden](http://www.assa.se)                  | [LinkedIn](https://www.linkedin.com/in/thijmendegooijer/) |
 | Andrew Denner           | [DuPont Pioneer](http://www.pioneer.com/)                | [Homepage](http://denner.co) [LinkedIn](https://www.linkedin.com/in/andrewdenner/) |
 | Frédéric Dubut          | [Microsoft (Xbox)](http://www.xbox.com)                  | [LinkedIn](https://www.linkedin.com/in/fredericdubut/), [Twitter](https://twitter.com/CoperniX) |
 | Luke Dunstan            | [Schneider Electric](http://www.schneider-electric.com/) | [LinkedIn](https://www.linkedin.com/in/luke-dunstan-341a5b38/) |
